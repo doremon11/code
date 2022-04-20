@@ -21,5 +21,4 @@ for j in range(len(lst2)-1):
     for i in range(len(lst2)-1):
         if lst2[i]>lst2[i+1]:
             lst2[i],lst2[i+1]=lst2[i+1],lst2[i]
-            print(lst2)
 print(lst2)
