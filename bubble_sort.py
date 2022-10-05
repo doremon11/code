@@ -1,8 +1,8 @@
 #bubble sort 
-
+'''
  ex :   0 4 123 76  3 
         [0, 4, 123, 76, 4, 3]
-        [0, 4, 76, 4, 3, 123] --> after first pass 
+        [0, 4, 76, 4, 3, 123] --> after first pass (largest element in array placed at last index of an array)
         [0, 4, 4, 3, 76, 123] --> after second pass
         [0, 4, 3, 4, 76, 123] --> after third pass 
         [0, 3, 4, 4, 76, 123] --> after fouth pass
